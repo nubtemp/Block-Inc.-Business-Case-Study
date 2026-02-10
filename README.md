@@ -113,5 +113,3 @@ Despite risks related to competition, regulation, and margin pressure, Block’s
 
 ---
 
-## Repository Description
-Strategic business case study analyzing Block, Inc. and its Square and Cash App ecosystems, focusing on fintech business models, competitive positioning, financial performance considerations, and growth strategy.
